@@ -1,5 +1,4 @@
-# Write your code here
-lastnumber=0
+
 count=10
 
 while count >=0 && count != lastnumber do
@@ -8,4 +7,3 @@ while count >=0 && count != lastnumber do
 end
   puts "Happy New Year"
 
-end
