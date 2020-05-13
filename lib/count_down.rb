@@ -5,5 +5,5 @@ while count >=0  do
   puts count 
   count = count-1
 end
-  puts "Happy New select_year!"
+  puts "Happy New year!"
 
